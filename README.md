@@ -1,5 +1,6 @@
 # Description
 A project that implements a system of hud markers moving along an ellipse or a rectangle shape
+
 **Control**
 * Esc - quit app
 * m - change markers mode
